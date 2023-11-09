@@ -1,0 +1,6 @@
+{
+  "topology": [625, 200, 625],
+  "bias": 1.0,
+  "testFile": "D:/ann/data/sample_train.csv",
+  "weightsFile": "D:/ann/data/a1.json"
+}

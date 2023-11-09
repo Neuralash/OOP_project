@@ -1,0 +1,12 @@
+{
+  "topology": [3, 2, 2],
+  "learningRate": 0.05,
+  "momentum": 1.0,
+  "bias": 1.0,
+  "epoch": 30,
+  "trainingFile": "D:/ann/data/sample_train.csv",
+  "labelsFile": "D:/ann/data/sample_label.csv",
+  "weightsFile": "D:/ann/data/a2.json",
+  "hActivation": 2,
+  "oActivation": 3
+}
